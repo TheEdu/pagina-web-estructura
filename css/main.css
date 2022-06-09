@@ -2,9 +2,9 @@ main {
     /* GRID Layout */
     display: grid;
     grid-template-areas: 
-        'section1 section1 section1 section1'
-        'section2 section2 section3 section3'
-        'section4 section4 section4 section4';
+        'section1 section1'
+        'section2 section3'
+        'section4 section4';
 }
 
 #section1 {
